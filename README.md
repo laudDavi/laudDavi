@@ -4,5 +4,5 @@
 - Estamos trabalhando com projetos de **JavaScript** e **HTML**;
 - Para dúvidas ou perguntas, entre em contato _00001119059112sp@al.educacao.sp.gov.br_💻📩
 
-  ![]![Uploading image.png…]()
+  ![]![Uploading image.gif…]()
 
